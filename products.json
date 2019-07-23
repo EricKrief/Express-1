@@ -1,0 +1,22 @@
+[
+    {
+        "category": "fruit",
+        "name": "Apple",
+        "itemsInStock": 4
+    },
+    {
+        "category": "fruit",
+        "name": "Orange",
+        "itemsInStock": 2
+    },
+    {
+        "category": "vegetable",
+        "name": "Potato",
+        "itemsInStock": 5
+    },
+    {
+        "category": "vegetable",
+        "name": "Onion",
+        "itemsInStock": 8
+    }
+]
